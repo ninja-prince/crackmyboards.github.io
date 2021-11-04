@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 100;
+    text-align: left;
+    text-decoration: underline;
+    text-indent: 30px;
+    text-transform: uppercase;
+    color:black;
+    letter-spacing: 10px;
+    word-spacing: none;
+    line-height: 22px;
+}
+
+a {
+    text-decoration: none;
+}
+p {
+     font-family: 'Stick No Bills';
+     font-style: italic;
+
+}
+
+div {
+    width: 300px;
+    height: 50px;
+    background-color: chocolate;
+}
+
